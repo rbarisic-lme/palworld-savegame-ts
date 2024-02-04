@@ -6,6 +6,8 @@ Because Palworld files are subject to change, this provides a clean implementati
 This is a very early release and was decoupled from my Palworld Server Control Dashboard Application.
 
 ## Types
+![image](https://github.com/rbarisic-lme/palworld-savegame-ts/assets/54026388/5fbbe724-0f55-4949-9eca-c8b28869c37e)
+
 Utilizes Typescript to build intellisense previews for interacting with the save files.
 
 ## Support
